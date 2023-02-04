@@ -1,2 +1,2 @@
 # python_challenge
-Python challenge for UWA class
+Use of python scripting to analyse and display financial and electoral data. 
